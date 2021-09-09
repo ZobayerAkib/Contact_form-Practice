@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+
+}
+.Form
+{
+   background-size: 100% 100%; 
+}
+
+
+.title
+{
+   background-image: linear-gradient(tomato,lightsalmon);
+
+   border: 1px solid tomato;
+    margin-top: -40px;
+    border-radius: 5px;
+    -webkit-box-shadow: 9px 3px 20px 5px rgba(250,168,147,1);
+    -moz-box-shadow: 9px 3px 20px 5px rgba(250,168,147,1);
+    box-shadow: 9px 3px 20px 5px rgba(250,168,147,1);
+
+    
+}
